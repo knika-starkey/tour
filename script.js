@@ -10,7 +10,7 @@ switch (a){
         price = 100;
         price = hot? price - price*0.2 : price;
         break;
-   case 'Гаваи':
+   case 'Гавайи':
         price = 350;
         price = hot? price - price*0.2 : price;
         break;
